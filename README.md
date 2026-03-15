@@ -1,6 +1,5 @@
 # sign_language_recognition
-An machine learning project that recognises the sign language
-Sign Language Recognition Using OpenCV
+An machine learning project that recognises the sign language Using OpenCV
 Dependencies:
 1. Tensorflow
 
